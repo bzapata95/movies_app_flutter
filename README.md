@@ -14,7 +14,7 @@ MovieApp
 [//]: # "Add your gifs/images here:"
 
 <div>
-  <img src="./.github/mobile.gif" alt="Mobile" height="425">
+  <img src="./.github/mobile.gif" alt="Mobile" height="600">
 </div>
 
 <hr />
